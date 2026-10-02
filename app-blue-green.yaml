@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/andresramilo/blue-green.git
-    path: k8s
+    path: blue-green
     targetRevision: HEAD
   destination:
     namespace: blue-green
